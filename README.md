@@ -1,5 +1,5 @@
 # Educational-Website
-Welcome to the **Knowledgeable Contents** project! This website serves as a resource hub for individuals interested in learning something. It provides tutorials, articles, and links to knowledgeable resources.
+Welcome to the **Knowledgeable Contents** project! It's Just a simple App, This website serves as a resource hub for individuals interested in learning something. It provides tutorials, articles, and links to knowledgeable resources.
 
 ## Live Application
 
