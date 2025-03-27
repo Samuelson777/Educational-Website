@@ -3,7 +3,10 @@ Welcome to the **Knowledgeable Contents** project! It's Just a simple App, This 
 
 ## Live Application
 
-You can view the live application at: [knowledgeable Contents](https://samuelson777.github.io/Educational-Website)
+You can view the live application at: [knowledgeable Contents App](https://samuelson777.github.io/Educational-Website)
+
+## Example Screenshot
+![knowledgeable Contents App Screenshot](https://github.com/user-attachments/assets/8e7e7c40-9f2f-4bd9-82de-c90f4b2ffea0)
 
 ## Table of Contents
 
