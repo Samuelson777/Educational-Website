@@ -27,3 +27,6 @@ You can view the live application at: [knowledgeable Contents App](https://samue
 - CSS3
 - JavaScript
 - GitHub Pages (for deployment)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Educational-Website/blob/main/LICENSE) file for details.
